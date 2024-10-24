@@ -21,12 +21,12 @@ Neste projeto, uma base de dados fictícia com informações de clientes de uma 
 
 # Dicionário
 
-- customer_id: Identificação do cliente;
-- age: Idade do cliente;
-- tenure: Tempo como cliente (meses);
-- monthly_charges: Valor mensal pago;
-- total_charges: Total pago pelo cliente até o momento;
-- contract_type: Tipo de contrato (mensal, anual);
-- internet_service: Tipo de serviço de internet (fibra, DSL, sem internet);
-- tech_support: Suporte técnico disponível (Sim/Não);
-- churn: Variável alvo (0 = Não cancelou, 1 = Cancelou).
+- **customer_id**: Identificação do cliente;
+- **age**: Idade do cliente;
+- **tenure**: Tempo como cliente (meses);
+- **monthly_charges**: Valor mensal pago;
+- **total_charges**: Total pago pelo cliente até o momento;
+- **contract_type**: Tipo de contrato (mensal, anual);
+- **internet_service**: Tipo de serviço de internet (fibra, DSL, sem internet);
+- **tech_support**: Suporte técnico disponível (Sim/Não);
+- **churn**: Variável alvo (0 = Não cancelou, 1 = Cancelou).
